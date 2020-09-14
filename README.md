@@ -31,6 +31,7 @@ python train.py
 python eval.py
 
 ## Cite
+```
 @inproceedings{DBLP:conf/aaai/ZhangGYLLX20,
   author    = {Yingying Zhang and
                Junyu Gao and
@@ -49,3 +50,4 @@ python eval.py
   year      = {2020},
   url       = {https://aaai.org/ojs/index.php/AAAI/article/view/6988},
 }
+```
